@@ -36,6 +36,6 @@ daily-brew/
 ├── style.css
 ├── script.js
 └── README.md
-BSIT 1-P | Group 4 | Web Development Project
+BSIT 1-P | Group 4 | Web Development Project.
 
 
