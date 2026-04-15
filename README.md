@@ -38,4 +38,4 @@ daily-brew/
 └── README.md
 BSIT 1-P | Group 4 | Web Development Project
 
-Content is user-generated and unverified.
+
