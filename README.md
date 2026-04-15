@@ -62,4 +62,5 @@ The website also includes a smart AI chatbot feature to assist customers with in
 
 1. Download or clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repository-name.git
+   git clone https://github.com/manguiobjetlancebsit-spec/GROUP4WEBTECHFINALPROJECT/tree/main
+  
