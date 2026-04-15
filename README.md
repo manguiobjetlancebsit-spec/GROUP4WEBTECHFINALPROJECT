@@ -16,4 +16,4 @@ Coming soon...
 - JavaScript
 
 ## 📌 Author
-Your Name
+Hagnaya, Richard
