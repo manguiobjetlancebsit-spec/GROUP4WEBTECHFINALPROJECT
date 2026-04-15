@@ -1,15 +1,15 @@
 # GROUP-4WEB-TECH-FINALPROJECT
 
-# Coffee Shop Website ☕🌐
+# Coffee Shop Website 
 
-## 📌 Project Overview
+## Project Overview
 This project is a Coffee Shop / Café website designed to provide customers with an easy and interactive way to explore the café, place orders, and make reservations online.
 
 The website also includes a smart AI chatbot feature to assist customers with inquiries and ordering.
 
 ---
 
-## 🎯 Project Goals
+## Project Goals
 - Create a modern and user-friendly café website
 - Allow customers to reserve tables online
 - Provide an ordering system for convenience
@@ -18,32 +18,32 @@ The website also includes a smart AI chatbot feature to assist customers with in
 
 ---
 
-## ✨ Features
+## Features
 
-### 🪑 Reservation System
+### Reservation System
 - Customers can book tables in advance
 
-### 🛒 Order System
+### Order System
 - Users can browse and place orders
 
-### 📍 Find Us
+### Find Us
 - Café address
 - Amenities
 - Opening hours
 
-### 📞 Contact Us
+### Contact Us
 - Users can send messages using:
   - Name
   - Email
   - Message
 
-### 📱 Follow Us
+### Follow Us
 - Social media links:
   - Facebook
   - Twitter
   - Instagram
 
-### 🤖 AI Chatbot (Exclusive Feature)
+### AI Chatbot (Exclusive Feature)
 - Assists customers with:
   - Menu guidance
   - Orders
@@ -51,14 +51,14 @@ The website also includes a smart AI chatbot feature to assist customers with in
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 - HTML
 - CSS
 - JavaScript
 
 ---
 
-## 🚀 How to Run the Project Locally
+## How to Run the Project Locally
 
 1. Download or clone the repository:
    ```bash
